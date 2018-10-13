@@ -1,4 +1,6 @@
-gerbers/*
+hardware/gerbers
 *bak
 *.net
 *.bck
+*.vcd
+gateware/obj_dir
